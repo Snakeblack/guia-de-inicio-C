@@ -1,8 +1,12 @@
 # Guia de inicio en C - 42 Madrid
 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
 Esta guia inicial es para nuevos alumnos de 42 que nunca habian visto C como lenguaje de programación.
 
-## Uso de Vim
+## Uso de Vim 
+
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
 El uso de Vim es importante en 42.
 
